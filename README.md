@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jka157 (John Kim)
-- 👀 I’m interested in learning new languages 
-- 🌱 I’m currently learning Python/C++/Javascript
-- 📫 How to reach me: karsh0109@gmail.com
+- 👀 I’m doing personal projects to learn more and practice programming
+- 🌱 I’m currently learning Python, C++, and SQL
+- 📫 How to reach me: junkim0109@gmail.com
 
 <!---
 jka157/jka157 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
